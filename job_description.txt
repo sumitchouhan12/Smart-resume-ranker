@@ -1,0 +1,5 @@
+ We are seeking a Python Developer with strong knowledge 
+ in machine learning, natural language processing (NLP),
+ and experience in deploying models on Microsoft Azure. 
+ The ideal candidate should be skilled in pandas, 
+ scikit-learn, and have a good understanding of resume parsing techniques.
